@@ -1,10 +1,3 @@
-import os
-import json
-import datetime
-import csv
-import nltk
-import ssl
-import streamlit as st
-import random
-from sklearn.feature_extraction. text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
+nltk==3.8.1
+streamlit==1.23.1
+scikit-learn==1.0.2
